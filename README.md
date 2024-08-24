@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @samir8823
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning c language
-- 💞️ I’m looking to collaborate to learn cybersecurity
-- 📫 insta id: samir_dahal96
--  ...
+-  Hi, I’m @samir8823
+-  I’m interested in coding
+-  I’m currently learning c language
+-  I’m looking to collaborate to learn cybersecurity
+-  insta id: samir_dahal96
+- Email : samirdahal8872@gmail.com
 
 <!---
 samir8823/samir8823 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
